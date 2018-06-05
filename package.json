@@ -1,0 +1,14 @@
+{
+  "name": "devf_curso",
+  "version": "0.0.1",
+  "description": "Batch 0 cinta roja Hmo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Carlos Acosta",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
