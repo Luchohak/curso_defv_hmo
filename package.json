@@ -9,6 +9,7 @@
   "author": "Luis Carlos Acosta",
   "license": "ISC",
   "dependencies": {
+    "@google/maps": "^0.4.6",
     "request": "^2.87.0"
   }
 }
